@@ -21,7 +21,7 @@ echo -e "${YELLOW}==================================================${NC}"
 
 # 文件路径
 CURRENT_DIR=$(pwd)
-KERNEL_DIR="${CURRENT_DIR}/xiaomi_kernel_odin_new"
+KERNEL_DIR="${CURRENT_DIR}/xiaomi_kernel_odin_A17"
 CLANG_DIR="${KERNEL_DIR}/scripts/tools/clang-r383902b1"
 GCC64_DIR="${KERNEL_DIR}/scripts/tools/aarch64-linux-android-4.9"
 GCC_DIR="${KERNEL_DIR}/scripts/tools/arm-linux-androideabi-4.9"
